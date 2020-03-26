@@ -26,8 +26,8 @@ func twoSum(nums []int, target int) []int {
 
 > 复杂度分析
 
-待定
-
+时间复杂度O(n)
+空间复杂度O(n)
 > 总结
 
 执行用时 : 4 ms, 在所有 Go 提交中击败了96.75%的用户
