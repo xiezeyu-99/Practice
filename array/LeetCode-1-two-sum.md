@@ -10,8 +10,18 @@
 
 > 代码
 
-```
-待定
+```go
+func twoSum(nums []int, target int) []int {
+    tempMap := make(map[int]int)
+
+    for i,num :=range nums{
+        if _,ok:=tempMap[target-num];ok{
+            return []int{i,tempMap[target-num]}
+        }
+        tempMap[num]=i
+    }
+    return []int{}
+}
 ```
 
 > 复杂度分析
