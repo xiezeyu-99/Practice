@@ -4,4 +4,4 @@
 
 > 数组
 
-[LeetCode-1-two-sum](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-1-two-sum.md)
+[LeetCode-1-two-sum](https://github.com/xiezeyu-99/Practice/blob/master/array/LeetCode-1-two-sum.md)
