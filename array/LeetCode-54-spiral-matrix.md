@@ -62,7 +62,6 @@ func spiralOrder(matrix [][]int) []int{
 
 >总结
 
-排序+双指针遍历法，
 
 执行用时 :0 ms, 在所有 Go 提交中击败了100.00%的用户
 
