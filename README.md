@@ -11,3 +11,5 @@
 [LeetCode-54-spiral-matrix 螺旋矩阵](https://github.com/xiezeyu-99/Practice/blob/master/array/LeetCode-54-spiral-matrix.md)
 
 [LeetCode-75-sort-colors 颜色分类](https://github.com/xiezeyu-99/Practice/blob/master/array/LeetCode-75-sort-colors.md)
+
+[LeetCode-670-Maximum-Swap 最大交换](https://github.com/xiezeyu-99/Practice/tree/master/array/LeetCode-670-Maximum-Swap.md)
