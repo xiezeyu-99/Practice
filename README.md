@@ -2,6 +2,8 @@
 
 ## 每天一道，努力爬坑
 
+### 无论我们遇到什么困难，都不要怕，微笑着面对它，消除恐惧的最好办法就是面对恐惧，坚持，才是胜利！加油，奥利给！ 
+
 > 数组
 
 [LeetCode-1-two-sum 两数之和](https://github.com/xiezeyu-99/Practice/blob/master/array/LeetCode-1-two-sum.md)
