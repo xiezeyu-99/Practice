@@ -21,3 +21,7 @@
 [LeetCode-42-trapping-rain-water 接雨水](https://github.com/xiezeyu-99/Practice/blob/master/array/LeetCode-42-trapping-rain-water.md)
 
 [LeetCode-73-set-matrix-zeroes 矩阵置零](https://github.com/xiezeyu-99/Practice/blob/master/array/LeetCode-73-set-matrix-zeroes.md)
+
+> 链表
+
+[LeetCode-83-remove-duplicates-from-sorted-list 删除排序链表中的重复元素](https://github.com/xiezeyu-99/Practice/blob/master/list/LeetCode-83-remove-duplicates-from-sorted-list.md)
