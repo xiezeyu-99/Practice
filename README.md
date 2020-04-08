@@ -29,3 +29,5 @@
 [LeetCode-141-linked-list-cycle 环形链表](https://github.com/xiezeyu-99/Practice/blob/master/list/LeetCode-141-linked-list-cycle.md)
 
 [LeetCode-92-reverse-linked-list-ii 反转链表 II](https://github.com/xiezeyu-99/Practice/blob/master/list/LeetCode-92-reverse-linked-list-ii.md)
+
+[LeetCode-61-rotate-list 旋转链表](https://github.com/xiezeyu-99/Practice/blob/master/list/LeetCode-61-rotate-list.md)
