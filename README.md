@@ -27,3 +27,5 @@
 [LeetCode-83-remove-duplicates-from-sorted-list 删除排序链表中的重复元素](https://github.com/xiezeyu-99/Practice/blob/master/list/LeetCode-83-remove-duplicates-from-sorted-list.md)
 
 [LeetCode-141-linked-list-cycle 环形链表](https://github.com/xiezeyu-99/Practice/blob/master/list/LeetCode-141-linked-list-cycle.md)
+
+[LeetCode-92-reverse-linked-list-ii 反转链表 II](https://github.com/xiezeyu-99/Practice/blob/master/list/LeetCode-92-reverse-linked-list-ii.md)
