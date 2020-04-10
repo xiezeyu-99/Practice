@@ -37,3 +37,7 @@
 [LeetCode-82-remove-duplicates-from-sorted-list-ii 删除排序链表中的重复元素 II](https://github.com/xiezeyu-99/Practice/blob/master/list/LeetCode-82-remove-duplicates-from-sorted-list-ii.md)
 
 [LeetCode-142-linked-list-cycle-ii 环形链表 II](https://github.com/xiezeyu-99/Practice/blob/master/list/LeetCode-142-linked-list-cycle-ii.md)
+
+> 栈
+
+[LeetCode-155-min-stack 最小栈](https://github.com/xiezeyu-99/Practice/blob/master/stack/LeetCode-155-min-stack.md)
