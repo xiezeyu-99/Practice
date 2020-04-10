@@ -41,3 +41,5 @@
 > 栈
 
 [LeetCode-155-min-stack 最小栈](https://github.com/xiezeyu-99/Practice/blob/master/stack/LeetCode-155-min-stack.md)
+
+[LeetCode-232-implement-queue-using-stacks 用栈实现队列](https://github.com/xiezeyu-99/Practice/blob/master/stack/LeetCode-232-implement-queue-using-stacks.md)
