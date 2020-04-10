@@ -35,3 +35,5 @@
 [LeetCode-86-partition-list 分隔链表](https://github.com/xiezeyu-99/Practice/blob/master/list/LeetCode-86-partition-list.md)
 
 [LeetCode-82-remove-duplicates-from-sorted-list-ii 删除排序链表中的重复元素 II](https://github.com/xiezeyu-99/Practice/blob/master/list/LeetCode-82-remove-duplicates-from-sorted-list-ii.md)
+
+[LeetCode-142-linked-list-cycle-ii 环形链表 II](https://github.com/xiezeyu-99/Practice/blob/master/list/LeetCode-142-linked-list-cycle-ii.md)
