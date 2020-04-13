@@ -5,11 +5,15 @@
 [LeetCode-150-evaluate-reverse-polish-notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
 
 >思路
+
 1.建立一个栈
+
 2.遍历tokens，如果是数字，那就入栈，如果是运算符，则从栈中取出栈顶的两个数，进行运算，得到的结果再次入栈
+
 >代码
 
 ```go
+
 type polanStack struct {
     data []string
 }
@@ -61,6 +65,7 @@ func evalRPN(tokens []string) int {
 空间复杂度：O(n)
 
 >总结
+
 执行用时 :4 ms, 在所有 Go 提交中击败了 87.65%的用户
 
 内存消耗 :4.4 MB, 在所有 Go 提交中击败了100.00%的用户
