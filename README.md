@@ -49,3 +49,5 @@
 [LeetCode-151-reverse-words-in-a-string 翻转字符串里的单词](https://github.com/xiezeyu-99/Practice/blob/master/stack/LeetCode-151-reverse-words-in-a-string.md)
 
 [LeetCode-856-score-of-parentheses 括号的分数](https://github.com/xiezeyu-99/Practice/blob/master/stack/LeetCode-856-score-of-parentheses.md)
+
+[LeetCode-394-decode-string 字符串解码](https://github.com/xiezeyu-99/Practice/blob/master/stack/LeetCode-394-decode-string.md)
