@@ -51,3 +51,5 @@
 [LeetCode-856-score-of-parentheses 括号的分数](https://github.com/xiezeyu-99/Practice/blob/master/stack/LeetCode-856-score-of-parentheses.md)
 
 [LeetCode-394-decode-string 字符串解码](https://github.com/xiezeyu-99/Practice/blob/master/stack/LeetCode-394-decode-string.md)
+
+[LeetCode-32-longest-valid-parentheses 最长有效括号](https://github.com/xiezeyu-99/Practice/blob/master/stack/LeetCode-32-longest-valid-parentheses.md)
