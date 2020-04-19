@@ -53,3 +53,7 @@
 [LeetCode-394-decode-string 字符串解码](https://github.com/xiezeyu-99/Practice/blob/master/stack/LeetCode-394-decode-string.md)
 
 [LeetCode-32-longest-valid-parentheses 最长有效括号](https://github.com/xiezeyu-99/Practice/blob/master/stack/LeetCode-32-longest-valid-parentheses.md)
+
+> 队列
+
+[LeetCode-933-number-of-recent-calls 最近的请求次数](https://github.com/xiezeyu-99/Practice/blob/master/queue/LeetCode-933-number-of-recent-calls.md)
