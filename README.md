@@ -57,3 +57,5 @@
 > 队列
 
 [LeetCode-933-number-of-recent-calls 最近的请求次数](https://github.com/xiezeyu-99/Practice/blob/master/queue/LeetCode-933-number-of-recent-calls.md)
+
+[LeetCode-641-design-circular-deque 设计循环双端队列](https://github.com/xiezeyu-99/Practice/blob/master/queue/LeetCode-641-design-circular-deque.md)
