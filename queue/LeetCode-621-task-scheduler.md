@@ -31,26 +31,26 @@
 func leastInterval(tasks []byte, n int) int {
     if n == 0 { return len(tasks) }
     if len(tasks) == 1 { return 1 }
-	cMap := make([]int, 26, 26)
-	for _, v := range tasks {
-		cMap[v-'A']++
-	}
-	sort.Ints(cMap)
+    cMap := make([]int, 26, 26)
+    for _, v := range tasks {
+	cMap[v-'A']++
+    }
+    sort.Ints(cMap)
 
-	free := (cMap[25] - 1) * n
-	var useFree int
-	for i := 24; i >= 0 && cMap[i] > 0; i-- {
-		useFree = int(math.Min(float64(cMap[i]), float64(cMap[25]-1)))
-		free = free - useFree
-		if free <= 0 {
-			break
-		}
+    free := (cMap[25] - 1) * n
+    var useFree int
+    for i := 24; i >= 0 && cMap[i] > 0; i-- {
+	useFree = int(math.Min(float64(cMap[i]), float64(cMap[25]-1)))
+	free = free - useFree
+	if free <= 0 {
+	    break
 	}
-	if free > 0 {
-		return free + len(tasks)
-	} else {
-		return len(tasks)
-	}
+    }
+    if free > 0 {
+        return free + len(tasks)
+    } else {
+	return len(tasks)
+    }
 }
 
 ```
