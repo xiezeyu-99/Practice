@@ -1,4 +1,4 @@
-#LeetCode-622-design-circular-queue
+# LeetCode-622-design-circular-queue
 
 > 题目链接
 
@@ -91,5 +91,6 @@ func (this *MyCircularQueue) IsFull() bool {
 > 总结
 
 执行用时 :12 ms, 在所有 Go 提交中击败了98.31%的用户
+
 内存消耗 :6.3 MB, 在所有 Go 提交中击败了66.67%的用户
 
