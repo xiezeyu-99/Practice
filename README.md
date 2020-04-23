@@ -61,3 +61,5 @@
 [LeetCode-641-design-circular-deque 设计循环双端队列](https://github.com/xiezeyu-99/Practice/blob/master/queue/LeetCode-641-design-circular-deque.md)
 
 [LeetCode-621-task-scheduler 任务调度器](https://github.com/xiezeyu-99/Practice/blob/master/queue/LeetCode-621-task-scheduler.md)
+
+[LeetCode-622-design-circular-queue 设计循环队列](https://github.com/xiezeyu-99/Practice/blob/master/queue/LeetCode-622-design-circular-queue.md)
