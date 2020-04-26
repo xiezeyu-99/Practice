@@ -67,3 +67,5 @@
 [LeetCode-239-sliding-window-maximum 滑动窗口最大值](https://github.com/xiezeyu-99/Practice/blob/master/queue/LeetCode-239-sliding-window-maximum.md)
 
 [LeetCode-363-max-sum-of-rectangle-no-larger-than-k 矩形区域不超过 K 的最大数值和](https://github.com/xiezeyu-99/Practice/blob/master/queue/LeetCode-363-max-sum-of-rectangle-no-larger-than-k.md)
+
+[LeetCode-862-shortest-subarray-with-sum-at-least-k 和至少为 K 的最短子数组](https://github.com/xiezeyu-99/Practice/blob/master/queue/LeetCode-862-shortest-subarray-with-sum-at-least-k.md)
