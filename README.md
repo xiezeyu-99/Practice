@@ -69,3 +69,7 @@
 [LeetCode-363-max-sum-of-rectangle-no-larger-than-k 矩形区域不超过 K 的最大数值和](https://github.com/xiezeyu-99/Practice/blob/master/queue/LeetCode-363-max-sum-of-rectangle-no-larger-than-k.md)
 
 [LeetCode-862-shortest-subarray-with-sum-at-least-k 和至少为 K 的最短子数组](https://github.com/xiezeyu-99/Practice/blob/master/queue/LeetCode-862-shortest-subarray-with-sum-at-least-k.md)
+
+> 排序
+
+[LeetCode-242-problemsvalid-anagram 有效的字母异位词](https://github.com/xiezeyu-99/Practice/blob/master/sort/LeetCode-242-problemsvalid-anagram.md)
