@@ -73,3 +73,5 @@
 > 排序
 
 [LeetCode-242-problemsvalid-anagram 有效的字母异位词](https://github.com/xiezeyu-99/Practice/blob/master/sort/LeetCode-242-problemsvalid-anagram.md)
+
+[LeetCode-349-intersection-of-two-arrays 两个数组的交集](https://github.com/xiezeyu-99/Practice/blob/master/sort/LeetCode-349-intersection-of-two-arrays.md)
