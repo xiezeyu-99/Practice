@@ -59,7 +59,7 @@ func merge(node1, node2 *ListNode) *ListNode {
 
 时间复杂度：O(nlogn)
 
-空间复杂度：O(n)
+空间复杂度：因为合并链表时，除了头节点，其余节点都是指向原链表的节点地址，所以空间复杂度是O(1)
 
 > 总结
 
