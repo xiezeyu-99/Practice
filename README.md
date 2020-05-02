@@ -81,3 +81,5 @@
 [LeetCode-148-sort-list 排序链表](https://github.com/xiezeyu-99/Practice/blob/master/sort/LeetCode-148-sort-list.md)
 
 [LeetCode-347-top-k-frequent-elements 前 K 个高频元素](https://github.com/xiezeyu-99/Practice/blob/master/sort/LeetCode-347-top-k-frequent-elements.md)
+
+[LeetCode-56-merge-intervals 合并区间](https://github.com/xiezeyu-99/Practice/blob/master/sort/LeetCode-56-merge-intervals.md)
