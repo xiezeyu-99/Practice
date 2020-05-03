@@ -23,9 +23,9 @@ func insert(intervals [][]int, newInterval []int) [][]int {
     if len(intervals) == 0{
         return [][]int{newInterval}
     }
-	i:=0
-	result:=[][]int{}
-	for i<=len(intervals)-1{
+    i:=0
+    result:=[][]int{}
+    for i<=len(intervals)-1{
         if newInterval[0] > intervals[i][1]{
             result = append(result,intervals[i])
             if i==len(intervals)-1{
@@ -52,8 +52,8 @@ func insert(intervals [][]int, newInterval []int) [][]int {
             result = append(result,intervals[j:]...)
             break
         }
-	}
-	return result
+    }
+    return result
 }
 
 func max(i,j int) int{
