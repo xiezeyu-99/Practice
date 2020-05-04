@@ -85,3 +85,7 @@
 [LeetCode-56-merge-intervals 合并区间](https://github.com/xiezeyu-99/Practice/blob/master/sort/LeetCode-56-merge-intervals.md)
 
 [LeetCode-57-insert-interval 插入区间](https://github.com/xiezeyu-99/Practice/blob/master/sort/LeetCode-57-insert-interval.md)
+
+> 二分法
+
+[LeetCode-35-search-insert-position 搜索插入位置](https://github.com/xiezeyu-99/Practice/blob/master/binary_search/LeetCode-35-search-insert-position.md)
