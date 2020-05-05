@@ -89,3 +89,7 @@
 > 二分法
 
 [LeetCode-35-search-insert-position 搜索插入位置](https://github.com/xiezeyu-99/Practice/blob/master/binary_search/LeetCode-35-search-insert-position.md)
+
+[LeetCode-29-divide-two-integers 两数相除](https://github.com/xiezeyu-99/Practice/blob/master/binary_search/LeetCode-29-divide-two-integers.md)
+
+[LeetCode-74-search-a-2d-matrix 搜索二维矩阵](https://github.com/xiezeyu-99/Practice/blob/master/binary_search/LeetCode-74-search-a-2d-matrix.md)
