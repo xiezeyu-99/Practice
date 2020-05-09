@@ -97,3 +97,5 @@
 [LeetCode-81-search-in-rotated-sorted-array-ii 搜索旋转排序数组 II](https://github.com/xiezeyu-99/Practice/blob/master/binary_search/LeetCode-81-search-in-rotated-sorted-array-ii.md)
 
 [LeetCode-162-find-peak-element 寻找峰值](https://github.com/xiezeyu-99/Practice/blob/master/binary_search/LeetCode-162-find-peak-element.md)
+
+[LeetCode-875-koko-eating-bananas 爱吃香蕉的珂珂](https://github.com/xiezeyu-99/Practice/blob/master/binary_search/LeetCode-875-koko-eating-bananas.md)
