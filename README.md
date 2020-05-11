@@ -101,3 +101,7 @@
 [LeetCode-875-koko-eating-bananas 爱吃香蕉的珂珂](https://github.com/xiezeyu-99/Practice/blob/master/binary_search/LeetCode-875-koko-eating-bananas.md)
 
 [LeetCode-174-dungeon-game 地下城游戏](https://github.com/xiezeyu-99/Practice/blob/master/binary_search/LeetCode-174-dungeon-game.md)
+
+> ordered map
+
+[LeetCode-846-hand-of-straights 一手顺子](https://github.com/xiezeyu-99/Practice/blob/master/ordered_map/LeetCode-846-hand-of-straights.md)
