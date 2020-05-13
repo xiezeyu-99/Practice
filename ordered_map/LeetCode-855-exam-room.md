@@ -1,8 +1,8 @@
-# LeetCode-855-exam-room-bananas
+# LeetCode-855-exam-room
 
 > 题目链接
 
-[LeetCode-855-exam-room-bananas](https://leetcode-cn.com/problems/exam-room/)
+[LeetCode-855-exam-room](https://leetcode-cn.com/problems/exam-room/)
 
 > 思路
 
