@@ -111,3 +111,5 @@
 [LeetCode-855-exam-room 考场就座](https://github.com/xiezeyu-99/Practice/blob/master/ordered_map/LeetCode-855-exam-room.md)
 
 [LeetCode-220-contains-duplicate-iii 存在重复元素 III](https://github.com/xiezeyu-99/Practice/blob/master/ordered_map/LeetCode-220-contains-duplicate-iii.md)
+
+[LeetCode-352-data-stream-as-disjoint-intervals 将数据流变为多个不相交区间](https://github.com/xiezeyu-99/Practice/blob/master/ordered_map/LeetCode-352-data-stream-as-disjoint-intervals.md)
