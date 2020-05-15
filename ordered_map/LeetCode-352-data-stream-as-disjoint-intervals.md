@@ -101,7 +101,7 @@ func min(i,j int)int {
 
 >复杂度分析
 
-时间复杂度：O(logn)
+时间复杂度：查找O(logn)+插入合并O(n)
 
 空间复杂度：O(n)
 
