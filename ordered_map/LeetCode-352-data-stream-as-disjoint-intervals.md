@@ -63,9 +63,6 @@ func (this *SummaryRanges) AddNum(val int)  {
             }
             return
         }
-        if val==0 {
-            fmt.Println(mid)
-        }
     }
 
 
