@@ -113,3 +113,5 @@
 [LeetCode-220-contains-duplicate-iii 存在重复元素 III](https://github.com/xiezeyu-99/Practice/blob/master/ordered_map/LeetCode-220-contains-duplicate-iii.md)
 
 [LeetCode-352-data-stream-as-disjoint-intervals 将数据流变为多个不相交区间](https://github.com/xiezeyu-99/Practice/blob/master/ordered_map/LeetCode-352-data-stream-as-disjoint-intervals.md)
+
+[LeetCode-715-range-module.md Range 模块](https://github.com/xiezeyu-99/Practice/blob/master/ordered_map/LeetCode-715-range-module.md)
