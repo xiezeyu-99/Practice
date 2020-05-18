@@ -115,3 +115,7 @@
 [LeetCode-352-data-stream-as-disjoint-intervals 将数据流变为多个不相交区间](https://github.com/xiezeyu-99/Practice/blob/master/ordered_map/LeetCode-352-data-stream-as-disjoint-intervals.md)
 
 [LeetCode-715-range-module.md Range 模块](https://github.com/xiezeyu-99/Practice/blob/master/ordered_map/LeetCode-715-range-module.md)
+
+> 散列表
+
+[LeetCode-136-single-number 只出现一次的数字](https://github.com/xiezeyu-99/Practice/blob/master/hash_table/LeetCode-136-single-number.md)
