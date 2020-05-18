@@ -12,8 +12,6 @@
 
 ```go
 
-// 线段区间+二分法
-// 注意各种边界条件。。。。
 type RangeModule struct {
     rng [][2]int
 }
@@ -174,7 +172,7 @@ func min(a, b int) int {
 
 >复杂度分析
 
-时间复杂度：O(logn),
+时间复杂度：查找O(logn),增删O(n)
 
 空间复杂度：O(n)
 
