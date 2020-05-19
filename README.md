@@ -121,3 +121,5 @@
 [LeetCode-136-single-number 只出现一次的数字](https://github.com/xiezeyu-99/Practice/blob/master/hash_table/LeetCode-136-single-number.md)
 
 [LeetCode-202-happy-number 快乐数](https://github.com/xiezeyu-99/Practice/blob/master/hash_table/LeetCode-202-happy-number.md)
+
+[LeetCode-36-valid-sudoku 有效的数独](https://github.com/xiezeyu-99/Practice/blob/master/hash_table/LeetCode-36-valid-sudoku.md)
