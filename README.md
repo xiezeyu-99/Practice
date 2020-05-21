@@ -125,3 +125,5 @@
 [LeetCode-36-valid-sudoku 有效的数独](https://github.com/xiezeyu-99/Practice/blob/master/hash_table/LeetCode-36-valid-sudoku.md)
 
 [LeetCode-49-group-anagrams 字母异位词分组](https://github.com/xiezeyu-99/Practice/blob/master/hash_table/LeetCode-49-group-anagrams.md)
+
+[LeetCode-187-repeated-dna-sequences 重复的DNA序列](https://github.com/xiezeyu-99/Practice/blob/master/hash_table/LeetCode-187-repeated-dna-sequences.md)
