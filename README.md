@@ -129,3 +129,5 @@
 [LeetCode-187-repeated-dna-sequences 重复的DNA序列](https://github.com/xiezeyu-99/Practice/blob/master/hash_table/LeetCode-187-repeated-dna-sequences.md)
 
 [LeetCode-30-substring-with-concatenation-of-all-words 串联所有单词的子串](https://github.com/xiezeyu-99/Practice/blob/master/hash_table/LeetCode-30-substring-with-concatenation-of-all-words.md)
+
+[LeetCode-37-sudoku-solver 解数独](https://github.com/xiezeyu-99/Practice/blob/master/hash_table/LeetCode-37-sudoku-solver.md)
