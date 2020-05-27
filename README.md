@@ -137,3 +137,5 @@
 [LeetCode-100-same-tree 相同的树](https://github.com/xiezeyu-99/Practice/blob/master/binary_tree/LeetCode-100-same-tree.md)
 
 [LeetCode-104-maximum-depth-of-binary-tree 二叉树的最大深度](https://github.com/xiezeyu-99/Practice/blob/master/binary_tree/LeetCode-104-maximum-depth-of-binary-tree.md)
+
+[LeetCode-95-unique-binary-search-trees-ii 不同的二叉搜索树 II](https://github.com/xiezeyu-99/Practice/blob/master/binary_tree/LeetCode-95-unique-binary-search-trees-ii.md)
