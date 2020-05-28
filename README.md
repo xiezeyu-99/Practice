@@ -141,3 +141,5 @@
 [LeetCode-95-unique-binary-search-trees-ii 不同的二叉搜索树 II](https://github.com/xiezeyu-99/Practice/blob/master/binary_tree/LeetCode-95-unique-binary-search-trees-ii.md)
 
 [LeetCode-96-unique-binary-search-trees 不同的二叉搜索树](https://github.com/xiezeyu-99/Practice/blob/master/binary_tree/LeetCode-96-unique-binary-search-trees.md)
+
+[LeetCode-98-validate-binary-search-tree 验证二叉搜索树](https://github.com/xiezeyu-99/Practice/blob/master/binary_tree/LeetCode-98-validate-binary-search-tree.md)
