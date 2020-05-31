@@ -145,3 +145,5 @@
 [LeetCode-98-validate-binary-search-tree 验证二叉搜索树](https://github.com/xiezeyu-99/Practice/blob/master/binary_tree/LeetCode-98-validate-binary-search-tree.md)
 
 [LeetCode-99-recover-binary-search-tree 恢复二叉搜索树](https://github.com/xiezeyu-99/Practice/blob/master/binary_tree/LeetCode-99-recover-binary-search-tree.md)
+
+[LeetCode-124-binary-tree-maximum-path-sum 二叉树中的最大路径和](https://github.com/xiezeyu-99/Practice/blob/master/binary_tree/LeetCode-124-binary-tree-maximum-path-sum.md)
