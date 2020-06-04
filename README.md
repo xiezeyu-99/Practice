@@ -153,3 +153,5 @@
 [LeetCode-116-populating-next-right-pointers-in-each-node 填充每个节点的下一个右侧节点指针](https://github.com/xiezeyu-99/Practice/blob/master/binary_tree/LeetCode-116-populating-next-right-pointers-in-each-node.md)
 
 [LeetCode-117-populating-next-right-pointers-in-each-node-ii 填充每个节点的下一个右侧节点指针 II](https://github.com/xiezeyu-99/Practice/blob/master/binary_tree/LeetCode-117-populating-next-right-pointers-in-each-node-ii.md)
+
+[LeetCode-222-count-complete-tree-nodes 完全二叉树的节点个数](https://github.com/xiezeyu-99/Practice/blob/master/binary_tree/LeetCode-222-count-complete-tree-nodes.md)
