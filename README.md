@@ -161,3 +161,7 @@
 [LeetCode-297-serialize-and-deserialize-binary-tree 二叉树的序列化与反序列化](https://github.com/xiezeyu-99/Practice/blob/master/binary_tree/LeetCode-297-serialize-and-deserialize-binary-tree.md)
 
 [LeetCode-685-redundant-connection-ii 冗余连接 II](https://github.com/xiezeyu-99/Practice/blob/master/binary_tree/LeetCode-685-redundant-connection-ii.md)
+
+> 动态规划
+
+[LeetCode-53-maximum-subarray 最大子序和](https://github.com/xiezeyu-99/Practice/blob/master/dynamic_program/LeetCode-53-maximum-subarray.md)
