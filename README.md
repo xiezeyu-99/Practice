@@ -185,3 +185,5 @@
 [LeetCode-39-combination-sum 组合总和](https://github.com/xiezeyu-99/Practice/blob/master/backtracking/LeetCode-39-combination-sum.md)
 
 [LeetCode-40-combination-sum-ii 组合总和](https://github.com/xiezeyu-99/Practice/blob/master/backtracking/LeetCode-40-combination-sum-ii.md)
+
+[LeetCode-46-permutations 全排列](https://github.com/xiezeyu-99/Practice/blob/master/backtracking/LeetCode-46-permutations.md)
