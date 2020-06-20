@@ -189,3 +189,5 @@
 [LeetCode-46-permutations 全排列](https://github.com/xiezeyu-99/Practice/blob/master/backtracking/LeetCode-46-permutations.md)
 
 [LeetCode-47-permutations-ii 全排列 II](https://github.com/xiezeyu-99/Practice/blob/master/backtracking/LeetCode-47-permutations-ii.md)
+
+[LeetCode-51-n-queens N皇后](https://github.com/xiezeyu-99/Practice/blob/master/backtracking/LeetCode-51-n-queens.md)
