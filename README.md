@@ -193,3 +193,7 @@
 [LeetCode-51-n-queens N皇后](https://github.com/xiezeyu-99/Practice/blob/master/backtracking/LeetCode-51-n-queens.md)
 
 [LeetCode-52-n-queens-ii N皇后 II](https://github.com/xiezeyu-99/Practice/blob/master/backtracking/LeetCode-52-n-queens-ii.md)
+
+> 位运算
+
+[LeetCode-169-majority-element 多数元素](https://github.com/xiezeyu-99/Practice/blob/master/bit_operation/LeetCode-169-majority-element.md)
