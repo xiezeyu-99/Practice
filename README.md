@@ -207,3 +207,5 @@
 [LeetCode-201-bitwise-and-of-numbers-range 数字范围按位与](https://github.com/xiezeyu-99/Practice/blob/master/bit_operation/LeetCode-201-bitwise-and-of-numbers-range.md)
 
 [LeetCode-1125-smallest-sufficient-team 最小的必要团队](https://github.com/xiezeyu-99/Practice/blob/master/bit_operation/LeetCode-1125-smallest-sufficient-team.md)
+
+[LeetCode-1178-number-of-valid-words-for-each-puzzle 猜字谜](https://github.com/xiezeyu-99/Practice/blob/master/bit_operation/LeetCode-1178-number-of-valid-words-for-each-puzzle.md)
