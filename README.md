@@ -212,4 +212,6 @@
 
 > 结章
 
-[LeetCode-13-roman-to-integer 罗马数字转整数](https://github.com/xiezeyu-99/Practice/blob/master/string/LeetCode-13-roman-to-integer.md)
+[LeetCode-13-roman-to-integer 罗马数字转整数](https://github.com/xiezeyu-99/Practice/blob/master/summary/LeetCode-13-roman-to-integer.md)
+
+[LeetCode-38-count-and-say  外观数列](https://github.com/xiezeyu-99/Practice/blob/master/summary/LeetCode-38-count-and-say.md)
