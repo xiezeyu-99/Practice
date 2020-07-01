@@ -55,7 +55,7 @@ func deal(n int, s []string) string{
 
 >复杂度分析
 
-时间复杂度：O(n)
+时间复杂度：O(1)
 
 空间复杂度：O(1)
 
