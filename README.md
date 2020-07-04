@@ -221,3 +221,5 @@
 [LeetCode-43-multiply-strings 字符串相乘](https://github.com/xiezeyu-99/Practice/blob/master/summary/LeetCode-43-multiply-strings.md)
 
 [LeetCode-48-rotate-image 旋转图像](https://github.com/xiezeyu-99/Practice/blob/master/summary/LeetCode-48-rotate-image.md)
+
+[LeetCode-41-first-missing-positive 缺失的第一个正数](https://github.com/xiezeyu-99/Practice/blob/master/summary/LeetCode-41-first-missing-positive.md)
