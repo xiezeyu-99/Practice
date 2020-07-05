@@ -223,3 +223,5 @@
 [LeetCode-48-rotate-image 旋转图像](https://github.com/xiezeyu-99/Practice/blob/master/summary/LeetCode-48-rotate-image.md)
 
 [LeetCode-41-first-missing-positive 缺失的第一个正数](https://github.com/xiezeyu-99/Practice/blob/master/summary/LeetCode-41-first-missing-positive.md)
+
+[LeetCode-45-jump-game-ii 跳跃游戏 II](https://github.com/xiezeyu-99/Practice/blob/master/summary/LeetCode-45-jump-game-ii.md)
