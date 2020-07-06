@@ -225,3 +225,7 @@
 [LeetCode-41-first-missing-positive 缺失的第一个正数](https://github.com/xiezeyu-99/Practice/blob/master/summary/LeetCode-41-first-missing-positive.md)
 
 [LeetCode-45-jump-game-ii 跳跃游戏 II](https://github.com/xiezeyu-99/Practice/blob/master/summary/LeetCode-45-jump-game-ii.md)
+
+> 每日一题
+
+[LeetCode-2-add-two-numbers 两数相加](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-2-add-two-numbers.md)
