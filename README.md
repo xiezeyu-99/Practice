@@ -231,3 +231,5 @@
 [LeetCode-2-add-two-numbers 两数相加](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-2-add-two-numbers.md)
 
 [LeetCode-112-path-sum 路径总和](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-112-path-sum.md)
+
+[LeetCode-16.11-diving-board-lcci 跳水板](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-16.11-diving-board-lcci.md)
