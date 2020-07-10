@@ -43,12 +43,12 @@ func respace(dictionary []string, sentence string) int {
 
 >复杂度分析
 
-时间复杂度：O(|dictionary | + n^2)
+时间复杂度：O(n*m)
 
-空间复杂度：O(n+q)，其中 n 为 sentence 中元素的个数，q 为词典中单词的个数。
+空间复杂度：O(n)
 
 >总结
 
-执行用时 :48ms, 在所有 Go 提交中击败了91.67%的用户
+执行用时 :16ms, 在所有 Go 提交中击败了100.00%的用户
 
-内存消耗 :4.8MB, 在所有 Go 提交中击败了100.00%的用户
+内存消耗 :4.7MB, 在所有 Go 提交中击败了100.00%的用户
