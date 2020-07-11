@@ -237,3 +237,5 @@
 [LeetCode-17.13-re-space-lcci 恢复空格](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-17.13-re-space-lcci.md)
 
 [LeetCode-4-median-of-two-sorted-arrays 寻找两个正序数组的中位数](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-4-median-of-two-sorted-arrays.md)
+
+[LeetCode-5-longest-palindromic-substring 最长回文子串](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-5-longest-palindromic-substring.md)
