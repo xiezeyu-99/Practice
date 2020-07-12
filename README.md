@@ -239,3 +239,5 @@
 [LeetCode-4-median-of-two-sorted-arrays 寻找两个正序数组的中位数](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-4-median-of-two-sorted-arrays.md)
 
 [LeetCode-5-longest-palindromic-substring 最长回文子串](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-5-longest-palindromic-substring.md)
+
+[LeetCode-6-zigzag-conversion  Z 字形变换](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-6-zigzag-conversion.md)
