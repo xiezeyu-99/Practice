@@ -243,3 +243,5 @@
 [LeetCode-6-zigzag-conversion  Z 字形变换](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-6-zigzag-conversion.md)
 
 [LeetCode-7-reverse-integer 整数反转](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-7-reverse-integer.md)
+
+[LeetCode-120-triangle 三角形最小路径和](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-120-triangle.md)
