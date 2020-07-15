@@ -245,3 +245,5 @@
 [LeetCode-7-reverse-integer 整数反转](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-7-reverse-integer.md)
 
 [LeetCode-120-triangle 三角形最小路径和](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-120-triangle.md)
+
+[LeetCode-8-string-to-integer-atoi 字符串转换整数 (atoi)](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-8-string-to-integer-atoi.md)
