@@ -247,3 +247,5 @@
 [LeetCode-120-triangle 三角形最小路径和](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-120-triangle.md)
 
 [LeetCode-8-string-to-integer-atoi 字符串转换整数 (atoi)](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-8-string-to-integer-atoi.md)
+
+[LeetCode-9-palindrome-number  回文数](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-9-palindrome-number.md)
