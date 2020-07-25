@@ -265,3 +265,5 @@
 [LeetCode-64-minimum-path-sum 最小路径和](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-64-minimum-path-sum.md)
 
 [LeetCode-20-valid-parentheses 有效的括号](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-20-valid-parentheses.md)
+
+[LeetCode-21-merge-two-sorted-lists 合并两个有序链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-21-merge-two-sorted-lists.md)
