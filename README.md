@@ -267,3 +267,5 @@
 [LeetCode-20-valid-parentheses 有效的括号](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-20-valid-parentheses.md)
 
 [LeetCode-21-merge-two-sorted-lists 合并两个有序链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-21-merge-two-sorted-lists.md)
+
+[LeetCode-22-generate-parentheses 括号生成](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-22-generate-parentheses.md)
