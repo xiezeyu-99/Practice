@@ -269,3 +269,5 @@
 [LeetCode-21-merge-two-sorted-lists 合并两个有序链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-21-merge-two-sorted-lists.md)
 
 [LeetCode-22-generate-parentheses 括号生成](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-22-generate-parentheses.md)
+
+[LeetCode-392-is-subsequence  判断子序列](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-392-is-subsequence.md)
