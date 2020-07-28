@@ -271,3 +271,5 @@
 [LeetCode-22-generate-parentheses 括号生成](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-22-generate-parentheses.md)
 
 [LeetCode-392-is-subsequence  判断子序列](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-392-is-subsequence.md)
+
+[LeetCode-23-merge-k-sorted-lists 合并K个排序链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-23-merge-k-sorted-lists.md)
