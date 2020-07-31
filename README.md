@@ -275,3 +275,5 @@
 [LeetCode-23-merge-k-sorted-lists 合并K个排序链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-23-merge-k-sorted-lists.md)
 
 [LeetCode-24-swap-nodes-in-pairs 两两交换链表中的节点](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-24-swap-nodes-in-pairs.md)
+
+[LeetCode-25-reverse-nodes-in-k-group K 个一组翻转链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-25-reverse-nodes-in-k-group.md)
