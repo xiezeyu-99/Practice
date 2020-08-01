@@ -283,3 +283,5 @@
 > 8月每日一题
 
 [LeetCode-27-remove-element 移除元素](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-27-remove-element.md)
+
+[LeetCode-28-implement-strstr 实现 strStr()](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-28-implement-strstr.md)
