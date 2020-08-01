@@ -279,3 +279,7 @@
 [LeetCode-25-reverse-nodes-in-k-group K 个一组翻转链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-25-reverse-nodes-in-k-group.md)
 
 [LeetCode-26-remove-duplicates-from-sorted-array 删除排序数组中的重复项](https://github.com/xiezeyu-99/Practice/blob/master/daily/LeetCode-26-remove-duplicates-from-sorted-array.md)
+
+> 8月每日一题
+
+[LeetCode-27-remove-element 移除元素](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-27-remove-element.md)
