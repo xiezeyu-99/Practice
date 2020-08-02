@@ -285,3 +285,7 @@
 [LeetCode-27-remove-element 移除元素](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-27-remove-element.md)
 
 [LeetCode-28-implement-strstr 实现 strStr()](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-28-implement-strstr.md)
+
+[LeetCode-31-next-permutation 下一个排列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-31-next-permutation.md)
+
+[LeetCode-114-flatten-binary-tree-to-linked-list 二叉树展开为链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-114-flatten-binary-tree-to-linked-list.md)
