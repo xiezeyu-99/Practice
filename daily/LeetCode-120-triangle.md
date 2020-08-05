@@ -47,7 +47,7 @@ func minimumTotal(triangle [][]int) int {
 
 >复杂度分析
 
-时间复杂度：O(n!)，n为三角形行数
+时间复杂度：O(n^2)，n为三角形行数
 
 空间复杂度：O(n)
 
