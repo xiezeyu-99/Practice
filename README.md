@@ -299,3 +299,5 @@
 [LeetCode-337-house-robber-iii 打家劫舍 III](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-337-house-robber-iii.md)
 
 [LeetCode-50-powx-n  Pow(x, n)](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-50-powx-n.md)
+
+[LeetCode-55-jump-game 跳跃游戏](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-55-jump-game.md)
