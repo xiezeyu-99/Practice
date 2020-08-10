@@ -303,3 +303,5 @@
 [LeetCode-55-jump-game 跳跃游戏](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-55-jump-game.md)
 
 [LeetCode-59-spiral-matrix-ii 螺旋矩阵 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-59-spiral-matrix-ii.md)
+
+[LeetCode-60-permutation-sequence 第k个排列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-60-permutation-sequence.md)
