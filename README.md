@@ -317,3 +317,5 @@
 [LeetCode-68-text-justificationr 文本左右对齐](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-68-text-justificationr.md)
 
 [LeetCode-69-sqrtx x 的平方根](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-69-sqrtx.md)
+
+[LeetCode-110-balanced-binary-tree 平衡二叉树](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-110-balanced-binary-tree.md)
