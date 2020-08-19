@@ -323,3 +323,5 @@
 [LeetCode-109-convert-sorted-list-to-binary-search-tree 有序链表转换二叉搜索树](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-109-convert-sorted-list-to-binary-search-tree.md)
 
 [LeetCode-71-simplify-path  简化路径](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-71-simplify-path.md)
+
+[LeetCode-72-edit-distance  编辑距离](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-72-edit-distance.md)
