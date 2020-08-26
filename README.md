@@ -337,3 +337,5 @@
 [LeetCode-85-maximal-rectangle 柱状图中最大的矩形](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-85-maximal-rectangle.md)
 
 [LeetCode-87-scramble-string 扰乱字符串](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-87-scramble-string.md)
+
+[LeetCode-88-merge-sorted-array 合并两个有序数组](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-88-merge-sorted-array.md)
