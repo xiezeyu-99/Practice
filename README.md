@@ -343,3 +343,5 @@
 [LeetCode-89-gray-code 格雷编码](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-89-gray-code.md)
 
 [LeetCode-90-subsets-ii 子集 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-90-subsets-ii.md)
+
+[LeetCode-214-shortest-palindrome 最短回文串](https://github.com/xiezeyu-99/Practice/blob/master/daily/202008/LeetCode-214-shortest-palindrome.md)
