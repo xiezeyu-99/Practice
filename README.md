@@ -355,3 +355,5 @@
 [LeetCode-101-symmetric-tree 对称二叉树](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-101-symmetric-tree.md)
 
 [LeetCode-102-binary-tree-level-order-traversal 二叉树的层序遍历](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-102-binary-tree-level-order-traversal.md)
+
+[LeetCode-257-binary-tree-paths 二叉树的所有路径](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-257-binary-tree-paths.md)
