@@ -363,3 +363,5 @@
 [LeetCode-107-binary-tree-level-order-traversal-ii 二叉树的层次遍历 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-107-binary-tree-level-order-traversal-ii.md)
 
 [LeetCode-105-construct-binary-tree-from-preorder-and-inorder-traversal 从前序与中序遍历序列构造二叉树](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-105-construct-binary-tree-from-preorder-and-inorder-traversal.md)
+
+[LeetCode-106-construct-binary-tree-from-inorder-and-postorder-traversal 从中序与后序遍历序列构造二叉树](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-106-construct-binary-tree-from-inorder-and-postorder-traversal.md)
