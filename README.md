@@ -371,3 +371,5 @@
 [LeetCode-113-path-sum-ii 路径总和 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-113-path-sum-ii.md)
 
 [LeetCode-216-combination-sum-iii 组合总和 III](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-216-combination-sum-iii.md)
+
+[LeetCode-115-distinct-subsequences 不同的子序列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-115-distinct-subsequences.md)
