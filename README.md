@@ -373,3 +373,5 @@
 [LeetCode-216-combination-sum-iii 组合总和 III](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-216-combination-sum-iii.md)
 
 [LeetCode-115-distinct-subsequences 不同的子序列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-115-distinct-subsequences.md)
+
+[LeetCode-118-pascals-triangle 杨辉三角](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-118-pascals-triangle.md)
