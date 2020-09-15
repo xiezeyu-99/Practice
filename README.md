@@ -377,3 +377,5 @@
 [LeetCode-118-pascals-triangle 杨辉三角](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-118-pascals-triangle.md)
 
 [LeetCode-119-pascals-triangle-ii 杨辉三角 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-119-pascals-triangle-ii.md)
+
+[LeetCode-121-best-time-to-buy-and-sell-stock 买卖股票的最佳时机](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-121-best-time-to-buy-and-sell-stock.md)
