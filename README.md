@@ -379,3 +379,5 @@
 [LeetCode-119-pascals-triangle-ii 杨辉三角 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-119-pascals-triangle-ii.md)
 
 [LeetCode-121-best-time-to-buy-and-sell-stock 买卖股票的最佳时机](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-121-best-time-to-buy-and-sell-stock.md)
+
+[LeetCode-226-invert-binary-tree 翻转二叉树](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-226-invert-binary-tree.md)
