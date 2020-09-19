@@ -383,3 +383,5 @@
 [LeetCode-226-invert-binary-tree 翻转二叉树](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-226-invert-binary-tree.md)
 
 [LeetCode-122-best-time-to-buy-and-sell-stock-ii 买卖股票的最佳时机 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-122-best-time-to-buy-and-sell-stock-ii.md)
+
+[LeetCode-404-sum-of-left-leaves  左叶子之和](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-404-sum-of-left-leaves.md)
