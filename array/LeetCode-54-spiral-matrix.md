@@ -20,22 +20,34 @@ func spiralOrder(matrix [][]int) []int {
 
 	var x, y int
 	for left <= right && up <= down {
-		for y = left; y <= right && avoid(left, right, up, down); y++ {
+		for y = left; y <= right; y++ {
 			result = append(result, matrix[up][y])
 		}
 		up++
-		for x = up; x <= down && avoid(left, right, up, down); x++ {
+        if !avoid(left, right, up, down) {
+            break
+        }
+		for x = up; x <= down; x++ {
 			result = append(result, matrix[x][right])
 		}
 		right--
-		for y = right; y >= left && avoid(left, right, up, down); y-- {
+        if !avoid(left, right, up, down) {
+            break
+        }
+		for y = right; y >= left; y-- {
 			result = append(result, matrix[down][y])
 		}
 		down--
-		for x = down; x >= up && avoid(left, right, up, down); x-- {
+        if !avoid(left, right, up, down) {
+            break
+        }
+		for x = down; x >= up; x-- {
 			result = append(result, matrix[x][left])
 		}
 		left++
+        if !avoid(left, right, up, down) {
+            break
+        }
 	}
 	return result
 }
@@ -43,6 +55,7 @@ func spiralOrder(matrix [][]int) []int {
 func avoid(left, right, up, down int) bool {
 	return up <= down && left <= right
 }
+
 
 ```
 
