@@ -393,3 +393,5 @@
 [LeetCode-126-word-ladder-ii 单词接龙 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-126-word-ladder-ii.md)
 
 [LeetCode-127-word-ladder 单词接龙](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-127-word-ladder.md)
+
+[LeetCode-128-longest-consecutive-sequence 最长连续序列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-128-longest-consecutive-sequence.md)
