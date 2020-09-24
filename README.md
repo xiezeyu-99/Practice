@@ -395,3 +395,5 @@
 [LeetCode-127-word-ladder 单词接龙](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-127-word-ladder.md)
 
 [LeetCode-128-longest-consecutive-sequence 最长连续序列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-128-longest-consecutive-sequence.md)
+
+[LeetCode-129-sum-root-to-leaf-numbers 求根到叶子节点数字之和](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-129-sum-root-to-leaf-numbers.md)
