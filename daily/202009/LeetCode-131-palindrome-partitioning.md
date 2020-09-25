@@ -69,7 +69,7 @@ func check(left,right int, s string) (int,bool) {
 
 > 复杂度分析
 
-时间复杂度：O(nlogn)
+时间复杂度：O(n!)
 
 空间复杂度： O(1)
 
