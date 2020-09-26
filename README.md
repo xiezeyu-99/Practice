@@ -399,3 +399,5 @@
 [LeetCode-129-sum-root-to-leaf-numbers 求根到叶子节点数字之和](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-129-sum-root-to-leaf-numbers.md)
 
 [LeetCode-131-palindrome-partitioning 分割回文串](https://github.com/xiezeyu-99/Practice/edit/master/daily/202009/LeetCode-131-palindrome-partitioning.md)
+
+[LeetCode-132-palindrome-partitioning-ii 分割回文串 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-132-palindrome-partitioning-ii.md)
