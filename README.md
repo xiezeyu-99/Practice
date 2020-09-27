@@ -401,3 +401,5 @@
 [LeetCode-131-palindrome-partitioning 分割回文串](https://github.com/xiezeyu-99/Practice/edit/master/daily/202009/LeetCode-131-palindrome-partitioning.md)
 
 [LeetCode-132-palindrome-partitioning-ii 分割回文串 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-132-palindrome-partitioning-ii.md)
+
+[LeetCode-235-lowest-common-ancestor-of-a-binary-search-tree 二叉搜索树的最近公共祖先](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-235-lowest-common-ancestor-of-a-binary-search-tree.md)
