@@ -409,3 +409,5 @@
 [LeetCode-135-candy 分发糖果](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-135-candy.md)
 
 [LeetCode-138-copy-list-with-random-pointer 复制带随机指针的链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-138-copy-list-with-random-pointer.md)
+
+[LeetCode-139-word-break 单词拆分](https://github.com/xiezeyu-99/Practice/blob/master/daily/202009/LeetCode-139-word-break.md)
