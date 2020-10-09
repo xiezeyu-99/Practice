@@ -427,3 +427,5 @@
 [LeetCode-344-reverse-string 反转字符串](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-344-reverse-string.md)
 
 [LeetCode-149-max-points-on-a-line 直线上最多的点数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-149-max-points-on-a-line.md)
+
+[LeetCode-152-maximum-product-subarray 乘积最大子数组](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-152-maximum-product-subarray.md)
