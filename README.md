@@ -425,3 +425,5 @@
 [LeetCode-147-insertion-sort-list 对链表进行插入排序](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-147-insertion-sort-list.md)
 
 [LeetCode-344-reverse-string 反转字符串](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-344-reverse-string.md)
+
+[LeetCode-149-max-points-on-a-line 直线上最多的点数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-149-max-points-on-a-line.md)
