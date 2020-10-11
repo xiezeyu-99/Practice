@@ -431,3 +431,5 @@
 [LeetCode-152-maximum-product-subarray 乘积最大子数组](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-152-maximum-product-subarray.md)
 
 [LeetCode-416-partition-equal-subset-sum 分割等和子集](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-416-partition-equal-subset-sum.md)
+
+[LeetCode-153-find-minimum-in-rotated-sorted-array 寻找旋转排序数组中的最小值](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-153-find-minimum-in-rotated-sorted-array.md)
