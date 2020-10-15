@@ -439,3 +439,5 @@
 [LeetCode-164-maximum-gap 最大间距](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-164-maximum-gap.md)
 
 [LeetCode-165-compare-version-numbers 比较版本号](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-165-compare-version-numbers.md)
+
+[LeetCode-166-fraction-to-recurring-decimal 分数到小数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-166-fraction-to-recurring-decimal.md)
