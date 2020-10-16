@@ -443,3 +443,5 @@
 [LeetCode-166-fraction-to-recurring-decimal 分数到小数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-166-fraction-to-recurring-decimal.md)
 
 [LeetCode-168-excel-sheet-column-title  Excel表列名称](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-168-excel-sheet-column-title.md)
+
+[LeetCode-171-excel-sheet-column-number  Excel表列序号](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-171-excel-sheet-column-number.md)
