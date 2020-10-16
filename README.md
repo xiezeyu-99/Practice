@@ -441,3 +441,5 @@
 [LeetCode-165-compare-version-numbers 比较版本号](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-165-compare-version-numbers.md)
 
 [LeetCode-166-fraction-to-recurring-decimal 分数到小数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-166-fraction-to-recurring-decimal.md)
+
+[LeetCode-168-excel-sheet-column-title  Excel表列名称](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-168-excel-sheet-column-title.md)
