@@ -445,3 +445,5 @@
 [LeetCode-168-excel-sheet-column-title  Excel表列名称](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-168-excel-sheet-column-title.md)
 
 [LeetCode-171-excel-sheet-column-number  Excel表列序号](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-171-excel-sheet-column-number.md)
+
+[LeetCode-172-factorial-trailing-zeroes 阶乘后的零](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-172-factorial-trailing-zeroes.md)
