@@ -447,3 +447,5 @@
 [LeetCode-171-excel-sheet-column-number  Excel表列序号](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-171-excel-sheet-column-number.md)
 
 [LeetCode-172-factorial-trailing-zeroes 阶乘后的零](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-172-factorial-trailing-zeroes.md)
+
+[LeetCode-173-binary-search-tree-iterator 二叉搜索树迭代器](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-173-binary-search-tree-iterator.md)
