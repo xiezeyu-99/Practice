@@ -451,3 +451,5 @@
 [LeetCode-173-binary-search-tree-iterator 二叉搜索树迭代器](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-173-binary-search-tree-iterator.md)
 
 [LeetCode-175-combine-two-tables 组合两个表](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-175-combine-two-tables.md)
+
+[LeetCode-176-second-highest-salary 第二高的薪水](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-176-second-highest-salary.md)
