@@ -455,3 +455,5 @@
 [LeetCode-176-second-highest-salary 第二高的薪水](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-176-second-highest-salary.md)
 
 [LeetCode-177-nth-highest-salary 第N高的薪水](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-177-nth-highest-salary.md)
+
+[LeetCode-234-palindrome-linked-list 回文链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-234-palindrome-linked-list.md)
