@@ -459,3 +459,5 @@
 [LeetCode-234-palindrome-linked-list 回文链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-234-palindrome-linked-list.md)
 
 [LeetCode-178-rank-scores 分数排名](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-178-rank-scores.md)
+
+[LeetCode-180-consecutive-numbers 连续出现的数字](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-180-consecutive-numbers.md)
