@@ -463,3 +463,5 @@
 [LeetCode-180-consecutive-numbers 连续出现的数字](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-180-consecutive-numbers.md)
 
 [LeetCode-181-employees-earning-more-than-their-managers 超过经理收入的员工](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-181-employees-earning-more-than-their-managers.md)
+
+[LeetCode-182-duplicate-emails 查找重复的电子邮箱](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-182-duplicate-emails.md)
