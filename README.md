@@ -467,3 +467,5 @@
 [LeetCode-182-duplicate-emails 查找重复的电子邮箱](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-182-duplicate-emails.md)
 
 [LeetCode-183-customers-who-never-order 从不订购的客户](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-183-customers-who-never-order.md)
+
+[LeetCode-184-department-highest-salary 部门工资最高的员工](https://github.com/xiezeyu-99/Practice/blob/master/daily/202010/LeetCode-184-department-highest-salary.md)
