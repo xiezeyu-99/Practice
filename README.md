@@ -480,3 +480,5 @@
 > 11月每日一题
 
 [LeetCode-191-number-of-1-bits 位1的个数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202011/LeetCode-191-number-of-1-bits.md)
+
+[LeetCode-196-delete-duplicate-emails 删除重复的电子邮箱](https://github.com/xiezeyu-99/Practice/blob/master/daily/202011/LeetCode-196-delete-duplicate-emails.md)
