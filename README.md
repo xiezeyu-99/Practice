@@ -492,3 +492,5 @@
 [LeetCode-200-LeetCode-200-number-of-islands 岛屿数量](https://github.com/xiezeyu-99/Practice/blob/master/daily/202011/LeetCode-200-LeetCode-200-number-of-islands.md)
 
 [LeetCode-203-remove-linked-list-elements 移除链表元素](https://github.com/xiezeyu-99/Practice/blob/master/daily/202011/LeetCode-203-remove-linked-list-elements.md)
+
+[LeetCode-204-count-primes 计数质数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202011/LeetCode-204-count-primes.md)
