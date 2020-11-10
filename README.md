@@ -494,3 +494,5 @@
 [LeetCode-203-remove-linked-list-elements 移除链表元素](https://github.com/xiezeyu-99/Practice/blob/master/daily/202011/LeetCode-203-remove-linked-list-elements.md)
 
 [LeetCode-204-count-primes 计数质数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202011/LeetCode-204-count-primes.md)
+
+[LeetCode-205-isomorphic-strings 同构字符串](https://github.com/xiezeyu-99/Practice/blob/master/daily/202011/LeetCode-205-isomorphic-strings.md)
