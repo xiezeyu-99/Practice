@@ -496,3 +496,5 @@
 [LeetCode-204-count-primes 计数质数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202011/LeetCode-204-count-primes.md)
 
 [LeetCode-205-isomorphic-strings 同构字符串](https://github.com/xiezeyu-99/Practice/blob/master/daily/202011/LeetCode-205-isomorphic-strings.md)
+
+[LeetCode-206-reverse-linked-list 反转链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/202011/LeetCode-206-reverse-linked-list.md)
