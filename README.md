@@ -514,3 +514,5 @@
 [LeetCode-215-kth-largest-element-in-an-array 数组中的第K个最大元素](https://github.com/xiezeyu-99/Practice/blob/master/daily/202011/LeetCode-215-kth-largest-element-in-an-array.md)
 
 [LeetCode-283-move-zeroes 移动零](https://github.com/xiezeyu-99/Practice/blob/master/daily/202011/LeetCode-283-move-zeroes.md)
+
+[LeetCode-217-contains-duplicate 存在重复元素](https://github.com/xiezeyu-99/Practice/blob/master/daily/202011/LeetCode-217-contains-duplicate.md)
