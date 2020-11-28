@@ -530,3 +530,5 @@
 [LeetCode-223-rectangle-area 矩形面积](https://github.com/xiezeyu-99/Practice/blob/master/daily/202011/LeetCode-223-rectangle-area.md)
 
 [LeetCode-224-basic-calculator 基本计算器](https://github.com/xiezeyu-99/Practice/blob/master/daily/202011/LeetCode-224-basic-calculator.md)
+
+[LeetCode-225-implement-stack-using-queues 用队列实现栈](https://github.com/xiezeyu-99/Practice/blob/master/daily/202011/LeetCode-225-implement-stack-using-queues.md)
