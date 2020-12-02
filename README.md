@@ -540,3 +540,5 @@
 > 12月每日一题
 
 [LeetCode-229-majority-element-ii 求众数 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-229-majority-element-ii.md)
+
+[LeetCode-230-kth-smallest-element-in-a-bst 二叉搜索树中第K小的元素](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-230-kth-smallest-element-in-a-bst.md)
