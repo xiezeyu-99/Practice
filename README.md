@@ -544,3 +544,5 @@
 [LeetCode-230-kth-smallest-element-in-a-bst 二叉搜索树中第K小的元素](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-230-kth-smallest-element-in-a-bst.md)
 
 [LeetCode-231-power-of-two 2的幂](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-231-power-of-two.md)
+
+[LeetCode-233-number-of-digit-one 数字 1 的个数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-233-number-of-digit-one.md)
