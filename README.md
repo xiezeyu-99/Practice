@@ -554,3 +554,5 @@
 [LeetCode-238-product-of-array-except-self 除自身以外数组的乘积](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-238-product-of-array-except-self.md)
 
 [LeetCode-240-search-a-2d-matrix-ii 搜索二维矩阵 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-240-search-a-2d-matrix-ii.md)
+
+[LeetCode-241-different-ways-to-add-parentheses 为运算表达式设计优先级](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-241-different-ways-to-add-parentheses.md)
