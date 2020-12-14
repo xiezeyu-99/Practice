@@ -564,3 +564,5 @@
 [LeetCode-262-trips-and-users 行程和用户](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-262-trips-and-users.md)
 
 [LeetCode-263-ugly-number 丑数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-263-ugly-number.md)
+
+[LeetCode-264-ugly-number-ii 丑数 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-264-ugly-number-ii.md)
