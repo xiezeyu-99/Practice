@@ -566,3 +566,5 @@
 [LeetCode-263-ugly-number 丑数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-263-ugly-number.md)
 
 [LeetCode-264-ugly-number-ii 丑数 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-264-ugly-number-ii.md)
+
+[LeetCode-268-missing-number 丢失的数字](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-268-missing-number.md)
