@@ -568,3 +568,5 @@
 [LeetCode-264-ugly-number-ii 丑数 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-264-ugly-number-ii.md)
 
 [LeetCode-268-missing-number 丢失的数字](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-268-missing-number.md)
+
+[LeetCode-290-word-pattern 单词规律](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-290-word-pattern.md)
