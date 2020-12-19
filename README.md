@@ -574,3 +574,5 @@
 [LeetCode-273-integer-to-english-words 整数转换英文表示](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-273-integer-to-english-words.md)
 
 [LeetCode-389-find-the-difference 找不同](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-389-find-the-difference.md)
+
+[LeetCode-274-h-index H 指数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-274-h-index.md)
