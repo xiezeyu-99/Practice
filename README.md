@@ -578,3 +578,5 @@
 [LeetCode-274-h-index H 指数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-274-h-index.md)
 
 [LeetCode-275-h-index-ii H 指数 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-275-h-index-ii.md)
+
+[LeetCode-278-first-bad-version 第一个错误的版本](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-278-first-bad-version.md)
