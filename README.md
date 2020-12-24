@@ -584,3 +584,5 @@
 [LeetCode-279-perfect-squares 完全平方数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-279-perfect-squares.md)
 
 [LeetCode-284-peeking-iterator 顶端迭代器](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-284-peeking-iterator.md)
+
+[LeetCode-282-expression-add-operators 给表达式添加运算符](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-282-expression-add-operators.md)
