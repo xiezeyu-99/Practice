@@ -588,3 +588,5 @@
 [LeetCode-282-expression-add-operators 给表达式添加运算符](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-282-expression-add-operators.md)
 
 [LeetCode-287-find-the-duplicate-number 寻找重复数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-287-find-the-duplicate-number.md)
+
+[LeetCode-289-game-of-life  生命游戏](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-289-game-of-life.md)
