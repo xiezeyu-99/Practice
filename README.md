@@ -592,3 +592,5 @@
 [LeetCode-289-game-of-life  生命游戏](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-289-game-of-life.md)
 
 [LeetCode-292-nim-game Nim 游戏](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-292-nim-game.md)
+
+[LeetCode-295-find-median-from-data-stream 数据流的中位数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-295-find-median-from-data-stream.md)
