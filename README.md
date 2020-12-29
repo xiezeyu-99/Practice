@@ -594,3 +594,5 @@
 [LeetCode-292-nim-game Nim 游戏](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-292-nim-game.md)
 
 [LeetCode-295-find-median-from-data-stream 数据流的中位数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-295-find-median-from-data-stream.md)
+
+[LeetCode-299-bulls-and-cows 猜数字游戏](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-299-bulls-and-cows.md)
