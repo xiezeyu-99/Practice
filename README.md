@@ -600,3 +600,7 @@
 [LeetCode-300-longest-increasing-subsequence  最长递增子序列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-300-longest-increasing-subsequence.md)
 
 [LeetCode-301-remove-invalid-parentheses 删除无效的括号](https://github.com/xiezeyu-99/Practice/blob/master/daily/202012/LeetCode-301-remove-invalid-parentheses.md)
+
+> 1月每日一题
+
+[LeetCode-303-range-sum-query-immutable 区域和检索 - 数组不可变](https://github.com/xiezeyu-99/Practice/blob/master/daily/2021/LeetCode-303-range-sum-query-immutable.md)
