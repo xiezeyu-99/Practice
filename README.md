@@ -604,3 +604,5 @@
 > 1月每日一题
 
 [LeetCode-303-range-sum-query-immutable 区域和检索 - 数组不可变](https://github.com/xiezeyu-99/Practice/blob/master/daily/2021/LeetCode-303-range-sum-query-immutable.md)
+
+[LeetCode-304-range-sum-query-2d-immutable 二维区域和检索 - 矩阵不可变](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-304-range-sum-query-2d-immutable.md)
