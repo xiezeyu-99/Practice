@@ -618,3 +618,5 @@
 [LeetCode-310-minimum-height-trees 最小高度树](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-310-minimum-height-trees.md)
 
 [LeetCode-312-burst-balloons 戳气球](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-312-burst-balloons.md)
+
+[LeetCode-313-super-ugly-number 超级丑数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-313-super-ugly-number.md)
