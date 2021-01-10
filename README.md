@@ -620,3 +620,5 @@
 [LeetCode-312-burst-balloons 戳气球](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-312-burst-balloons.md)
 
 [LeetCode-313-super-ugly-number 超级丑数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-313-super-ugly-number.md)
+
+[LeetCode-315-count-of-smaller-numbers-after-self 计算右侧小于当前元素的个数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-315-count-of-smaller-numbers-after-self.md)
