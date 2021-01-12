@@ -624,3 +624,5 @@
 [LeetCode-315-count-of-smaller-numbers-after-self 计算右侧小于当前元素的个数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-315-count-of-smaller-numbers-after-self.md)
 
 [LeetCode-316-remove-duplicate-letters 去除重复字母](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-316-remove-duplicate-letters.md)
+
+[LeetCode-318-maximum-product-of-word-lengths 最大单词长度乘积](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-318-maximum-product-of-word-lengths.md)
