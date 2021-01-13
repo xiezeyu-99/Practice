@@ -632,3 +632,7 @@
 [LeetCode-321-create-maximum-number 拼接最大数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-321-create-maximum-number.md)
 
 [LeetCode-322-coin-change 零钱兑换](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-322-coin-change.md)
+
+[LeetCode-324-wiggle-sort-ii 摆动排序 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-324-wiggle-sort-ii.md)
+
+[LeetCode-326-power-of-three 3的幂](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-326-power-of-three.md)
