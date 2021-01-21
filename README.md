@@ -642,3 +642,5 @@
 [LeetCode-328-odd-even-linked-list 奇偶链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-328-odd-even-linked-list.md)
 
 [LeetCode-329-longest-increasing-path-in-a-matrix 矩阵中的最长递增路径](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-329-longest-increasing-path-in-a-matrix.md)
+
+[LeetCode-330-patching-array 按要求补齐数组](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-330-patching-array.md)
