@@ -644,3 +644,5 @@
 [LeetCode-329-longest-increasing-path-in-a-matrix 矩阵中的最长递增路径](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-329-longest-increasing-path-in-a-matrix.md)
 
 [LeetCode-330-patching-array 按要求补齐数组](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-330-patching-array.md)
+
+[LeetCode-331-verify-preorder-serialization-of-a-binary-tree 验证二叉树的前序序列化](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-331-verify-preorder-serialization-of-a-binary-tree.md)
