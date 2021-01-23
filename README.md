@@ -646,3 +646,5 @@
 [LeetCode-330-patching-array 按要求补齐数组](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-330-patching-array.md)
 
 [LeetCode-331-verify-preorder-serialization-of-a-binary-tree 验证二叉树的前序序列化](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-331-verify-preorder-serialization-of-a-binary-tree.md)
+
+[LeetCode-332-reconstruct-itinerary 重新安排行程](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-332-reconstruct-itinerary.md)
