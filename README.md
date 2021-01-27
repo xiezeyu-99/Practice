@@ -654,3 +654,5 @@
 [LeetCode-335-self-crossing 路径交叉](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-335-self-crossing.md)
 
 [LeetCode-338-counting-bits 比特位计数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-338-counting-bits.md)
+
+[LeetCode-341-flatten-nested-list-iterator 扁平化嵌套列表迭代器](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-341-flatten-nested-list-iterator.md)
