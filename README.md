@@ -658,3 +658,5 @@
 [LeetCode-341-flatten-nested-list-iterator 扁平化嵌套列表迭代器](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-341-flatten-nested-list-iterator.md)
 
 [LeetCode-342-power-of-four 4的幂](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-342-power-of-four.md)
+
+[LeetCode-343-integer-break 整数拆分](https://github.com/xiezeyu-99/Practice/blob/master/daily/202101/LeetCode-343-integer-break.md)
