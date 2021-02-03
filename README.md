@@ -670,3 +670,5 @@
 [LeetCode-354-russian-doll-envelopes 俄罗斯套娃信封问题](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-354-russian-doll-envelopes.md)
 
 [LeetCode-355-design-twitter 设计推特](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-355-design-twitter.md)
+
+[LeetCode-357-count-numbers-with-unique-digits 计算各个位数不同的数字个数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-357-count-numbers-with-unique-digits.md)
