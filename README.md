@@ -674,3 +674,5 @@
 [LeetCode-357-count-numbers-with-unique-digits 计算各个位数不同的数字个数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-357-count-numbers-with-unique-digits.md)
 
 [LeetCode-365-water-and-jug-problem 水壶问题](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-365-water-and-jug-problem.md)
+
+[LeetCode-367-valid-perfect-square 有效的完全平方数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-367-valid-perfect-square.md)
