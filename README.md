@@ -680,3 +680,5 @@
 [LeetCode-368-largest-divisible-subset 最大整除子集](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-368-largest-divisible-subset.md)
 
 [LeetCode-371-sum-of-two-integers 两整数之和](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-371-sum-of-two-integers.md)
+
+[LeetCode-372-super-pow 超级次方](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-372-super-pow.md)
