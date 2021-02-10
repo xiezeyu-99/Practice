@@ -684,3 +684,5 @@
 [LeetCode-372-super-pow 超级次方](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-372-super-pow.md)
 
 [LeetCode-373-find-k-pairs-with-smallest-sums 查找和最小的K对数字](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-373-find-k-pairs-with-smallest-sums.md)
+
+[LeetCode-374-guess-number-higher-or-lower 猜数字大小](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-374-guess-number-higher-or-lower.md)
