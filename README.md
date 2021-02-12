@@ -688,3 +688,5 @@
 [LeetCode-374-guess-number-higher-or-lower 猜数字大小](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-374-guess-number-higher-or-lower.md)
 
 [LeetCode-375-guess-number-higher-or-lower-ii 猜数字大小 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-375-guess-number-higher-or-lower-ii.md)
+
+[LeetCode-376-wiggle-subsequence 摆动序列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-376-wiggle-subsequence.md)
