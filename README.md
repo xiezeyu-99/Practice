@@ -690,3 +690,7 @@
 [LeetCode-375-guess-number-higher-or-lower-ii 猜数字大小 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-375-guess-number-higher-or-lower-ii.md)
 
 [LeetCode-376-wiggle-subsequence 摆动序列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-376-wiggle-subsequence.md)
+
+[LeetCode-377-combination-sum-iv 组合总和 Ⅳ](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-377-combination-sum-iv.md)
+
+[LeetCode-378-kth-smallest-element-in-a-sorted-matrix 有序矩阵中第 K 小的元素](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-378-kth-smallest-element-in-a-sorted-matrix.md)
