@@ -698,3 +698,5 @@
 [LeetCode-380-insert-delete-getrandom-o1 常数时间插入、删除和获取随机元素](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-380-insert-delete-getrandom-o1.md)
 
 [LeetCode-381-insert-delete-getrandom-o1-duplicates-allowed  O(1) 时间插入、删除和获取随机元素 - 允许重复](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-381-insert-delete-getrandom-o1-duplicates-allowed.md)
+
+[LeetCode-382-linked-list-random-node 链表随机节点](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-382-linked-list-random-node.md)
