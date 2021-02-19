@@ -702,3 +702,5 @@
 [LeetCode-382-linked-list-random-node 链表随机节点](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-382-linked-list-random-node.md)
 
 [LeetCode-383-ransom-note 赎金信](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-383-ransom-note.md)
+
+[LeetCode-384-shuffle-an-array 打乱数组](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-384-shuffle-an-array.md)
