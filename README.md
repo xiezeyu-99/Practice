@@ -706,3 +706,5 @@
 [LeetCode-384-shuffle-an-array 打乱数组](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-384-shuffle-an-array.md)
 
 [LeetCode-385-mini-parser 迷你语法分析器](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-385-mini-parser.md)
+
+[LeetCode-386-lexicographical-numbers 字典序排数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-386-lexicographical-numbers.md)
