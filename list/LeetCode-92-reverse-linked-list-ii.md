@@ -24,28 +24,28 @@
  */
 func reverseBetween(head *ListNode, m int, n int) *ListNode {
 	if m == n {
-		return head
+	    return head
 	}
 	resultList := &ListNode{
-        Val:0,
-        Next:head,
-    }
+            Val:0,
+            Next:head,
+        }
 
 	for i := 1; i < m; i++ {
-		resultList = resultList.Next
+	  resultList = resultList.Next
 	}
 
 	p := resultList.Next
 	pNext := p.Next
 	for i := m; i < n; i++ {
 		p.Next = pNext.Next;
-        pNext.Next = resultList.Next;
-        resultList.Next = pNext;
-        pNext = p.Next;
+        	pNext.Next = resultList.Next;
+        	resultList.Next = pNext;
+        	pNext = p.Next;
 	}
 	if m == 1 {
 		return resultList.Next;
-    } else {
+    	} else {
 		return head;
 	}
 }
