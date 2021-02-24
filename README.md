@@ -712,3 +712,5 @@
 [LeetCode-387-first-unique-character-in-a-string 字符串中的第一个唯一字符](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-387-first-unique-character-in-a-string.md)
 
 [LeetCode-388-longest-absolute-file-path 文件的最长绝对路径](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-388-longest-absolute-file-path.md)
+
+[LeetCode-390-elimination-game 消除游戏](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-390-elimination-game.md)
