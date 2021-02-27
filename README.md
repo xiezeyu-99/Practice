@@ -718,3 +718,5 @@
 [LeetCode-391-perfect-rectangle 完美矩形](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-391-perfect-rectangle.md)
 
 [LeetCode-393-utf-8-validation UTF-8 编码验证](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-393-utf-8-validation.md)
+
+[LeetCode-396-rotate-function 旋转函数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-396-rotate-function.md)
