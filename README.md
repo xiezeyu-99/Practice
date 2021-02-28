@@ -720,3 +720,5 @@
 [LeetCode-393-utf-8-validation UTF-8 编码验证](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-393-utf-8-validation.md)
 
 [LeetCode-396-rotate-function 旋转函数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-396-rotate-function.md)
+
+[LeetCode-395-longest-substring-with-at-least-k-repeating-characters 至少有 K 个重复字符的最长子串](https://github.com/xiezeyu-99/Practice/blob/master/daily/202102/LeetCode-395-longest-substring-with-at-least-k-repeating-characters.md)
