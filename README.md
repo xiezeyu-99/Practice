@@ -726,3 +726,5 @@
 > 202103
 
 [LeetCode-397-integer-replacement 整数替换](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-397-integer-replacement.md)
+
+[LeetCode-398-random-pick-index 随机数索引](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-398-random-pick-index.md)
