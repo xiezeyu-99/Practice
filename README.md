@@ -730,3 +730,5 @@
 [LeetCode-398-random-pick-index 随机数索引](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-398-random-pick-index.md)
 
 [LeetCode-399-evaluate-division 除法求值](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-399-evaluate-division.md)
+
+[LeetCode-400-nth-digit 第 N 位数字](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-400-nth-digit.md)
