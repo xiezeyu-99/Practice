@@ -736,3 +736,5 @@
 [LeetCode-402-remove-k-digits 移掉K位数字](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-402-remove-k-digits.md)
 
 [LeetCode-403-frog-jump 青蛙过河](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-403-frog-jump.md)
+
+[LeetCode-405-convert-a-number-to-hexadecimal 数字转换为十六进制数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-405-convert-a-number-to-hexadecimal.md)
