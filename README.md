@@ -738,3 +738,5 @@
 [LeetCode-403-frog-jump 青蛙过河](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-403-frog-jump.md)
 
 [LeetCode-405-convert-a-number-to-hexadecimal 数字转换为十六进制数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-405-convert-a-number-to-hexadecimal.md)
+
+[LeetCode-406-queue-reconstruction-by-height 根据身高重建队列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-406-queue-reconstruction-by-height.md)
