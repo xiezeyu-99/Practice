@@ -747,3 +747,5 @@
 
 [LeetCode-410-split-array-largest-sum 分割数组的最大值
 ](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-410-split-array-largest-sum.md)
+
+[LeetCode-412-fizz-buzz Fizz Buzz](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-412-fizz-buzz.md)
