@@ -749,3 +749,5 @@
 ](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-410-split-array-largest-sum.md)
 
 [LeetCode-412-fizz-buzz Fizz Buzz](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-412-fizz-buzz.md)
+
+[LeetCode-413-arithmetic-slices 等差数列划分](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-413-arithmetic-slices.md)
