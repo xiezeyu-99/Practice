@@ -751,3 +751,5 @@
 [LeetCode-412-fizz-buzz Fizz Buzz](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-412-fizz-buzz.md)
 
 [LeetCode-413-arithmetic-slices 等差数列划分](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-413-arithmetic-slices.md)
+
+[LeetCode-414-third-maximum-number 第三大的数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-414-third-maximum-number.md)
