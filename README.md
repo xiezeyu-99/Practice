@@ -757,3 +757,5 @@
 [LeetCode-剑指offer-05-ti-huan-kong-ge-lcof 替换空格](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-%E5%89%91%E6%8C%87offer-05-ti-huan-kong-ge-lcof.md)
 
 [剑指offer-06 从尾到头打印链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-%E5%89%91%E6%8C%87offer-06-cong-wei-dao-tou-da-yin-lian-biao-lcof.md)
+
+[剑指offer-09用两个栈实现队列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-%E5%89%91%E6%8C%87offer-09.md)
