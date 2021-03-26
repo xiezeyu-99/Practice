@@ -775,3 +775,5 @@
 [剑指 Offer 16 数值的整数次方](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-%E5%89%91%E6%8C%87offer-16.md)
 
 [剑指 Offer 17 打印从1到最大的n位数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-%E5%89%91%E6%8C%87offer-17.md)
+
+[剑指 Offer 18 删除链表的节点](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-%E5%89%91%E6%8C%87offer-18.md)
