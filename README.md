@@ -785,3 +785,5 @@
 [剑指 Offer 21 调整数组顺序使奇数位于偶数前面](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-%E5%89%91%E6%8C%87offer-21.md)
 
 [剑指 Offer 22 链表中倒数第k个节点](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-%E5%89%91%E6%8C%87offer-22.md)
+
+[剑指 Offer 24 反转链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-%E5%89%91%E6%8C%87offer-24.md)
