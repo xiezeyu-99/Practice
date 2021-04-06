@@ -788,6 +788,8 @@
 
 [剑指 Offer 24 反转链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/202103/LeetCode-%E5%89%91%E6%8C%87offer-24.md)
 
+> 202104
+
 [剑指 Offer 25 合并两个排序的链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-25.md)
 
 [剑指 Offer 26 树的子结构](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-26.md)
@@ -797,3 +799,5 @@
 [剑指 Offer 28 对称的二叉树](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-28.md)
 
 [剑指 Offer 29 顺时针打印矩阵](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-29.md)
+
+[剑指 Offer 31](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-31.md)
