@@ -800,4 +800,6 @@
 
 [剑指 Offer 29 顺时针打印矩阵](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-29.md)
 
-[剑指 Offer 31](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-31.md)
+[剑指 Offer 31 栈的压入、弹出序列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-31.md)
+
+[剑指 Offer 32-I 从上到下打印二叉树](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-32.md)
