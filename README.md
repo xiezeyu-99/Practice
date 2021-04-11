@@ -809,3 +809,5 @@
 [剑指 Offer 30 包含min函数的栈](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-30.md)
 
 [剑指 Offer 32-III 从上到下打印二叉树 III](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-32-III.md)
+
+[剑指 Offer 33 二叉搜索树的后序遍历序列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-33.md)
