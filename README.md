@@ -813,3 +813,5 @@
 [剑指 Offer 33 二叉搜索树的后序遍历序列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-33.md)
 
 [剑指 Offer 34 二叉树中和为某一值的路径](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-34.md)
+
+[剑指 Offer 35 复杂链表的复制](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-35.md)
