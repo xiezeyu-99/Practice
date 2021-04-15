@@ -817,3 +817,5 @@
 [剑指 Offer 35 复杂链表的复制](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-35.md)
 
 [剑指 Offer 38 字符串的排列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-38.md)
+
+[剑指 Offer 39 数组中出现次数超过一半的数字](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-39.md)
