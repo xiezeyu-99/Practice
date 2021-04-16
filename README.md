@@ -819,3 +819,5 @@
 [剑指 Offer 38 字符串的排列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-38.md)
 
 [剑指 Offer 39 数组中出现次数超过一半的数字](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-39.md)
+
+[剑指 Offer 40 最小的k个数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-40.md)
