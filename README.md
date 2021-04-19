@@ -825,3 +825,5 @@
 [剑指 Offer 42 连续子数组的最大和](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-42.md)
 
 [剑指 Offer 44 数字序列中某一位的数字](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-44.md)
+
+[剑指 Offer 45 把数组排成最小的数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-45.md)
