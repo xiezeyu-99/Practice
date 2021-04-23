@@ -833,3 +833,5 @@
 [剑指 Offer 47 礼物的最大价值](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-47.md)
 
 [剑指 Offer 48 最长不含重复字符的子字符串](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-48.md)
+
+[剑指 Offer 49 丑数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-49.md)
