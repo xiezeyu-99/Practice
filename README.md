@@ -835,3 +835,5 @@
 [剑指 Offer 48 最长不含重复字符的子字符串](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-48.md)
 
 [剑指 Offer 49 丑数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-49.md)
+
+[剑指 Offer 50 第一个只出现一次的字符](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-50.md)
