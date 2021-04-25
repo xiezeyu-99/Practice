@@ -837,3 +837,5 @@
 [剑指 Offer 49 丑数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-49.md)
 
 [剑指 Offer 50 第一个只出现一次的字符](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-50.md)
+
+[剑指 Offer 52 两个链表的第一个公共节点](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-52.md)
