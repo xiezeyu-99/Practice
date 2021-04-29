@@ -845,3 +845,5 @@
 [剑指 Offer 53 - II 0～n-1中缺失的数字](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-53%20-II.md)
 
 [剑指 Offer 54 二叉搜索树的第k大节点](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-54.md)
+
+[剑指 Offer 53 - I 二叉树的深度](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-55-I.md)
