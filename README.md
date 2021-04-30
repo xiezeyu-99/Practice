@@ -846,4 +846,6 @@
 
 [剑指 Offer 54 二叉搜索树的第k大节点](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-54.md)
 
-[剑指 Offer 53 - I 二叉树的深度](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-55-I.md)
+[剑指 Offer 55 - I 二叉树的深度](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-55-I.md)
+
+[剑指 Offer 55 - II 平衡二叉树](https://github.com/xiezeyu-99/Practice/blob/master/daily/202104/LeetCode-%E5%89%91%E6%8C%87offer-55-II.md)
