@@ -853,3 +853,5 @@
 > 202105
  
 [剑指 Offer 56 - I 数组中数字出现的次数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E5%89%91%E6%8C%87offer-56-I.md)
+
+[剑指 Offer 56 - II 数组中数字出现的次数 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E5%89%91%E6%8C%87offer-56-II.md)
