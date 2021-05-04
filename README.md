@@ -857,3 +857,5 @@
 [剑指 Offer 56 - II 数组中数字出现的次数 II](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E5%89%91%E6%8C%87offer-56-II.md)
 
 [剑指 Offer 57 和为s的两个数字](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E5%89%91%E6%8C%87offer-57.md)
+
+[剑指 Offer 57-II  和为s的连续正数序列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E5%89%91%E6%8C%87offer-57%20-%20II%20.md)
