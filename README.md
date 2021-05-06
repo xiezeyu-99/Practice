@@ -861,3 +861,5 @@
 [剑指 Offer 57-II  和为s的连续正数序列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E5%89%91%E6%8C%87offer-57%20-%20II%20.md)
 
 [剑指 Offer 58-I 翻转单词顺序](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E5%89%91%E6%8C%87offer-58-I.md)
+
+[剑指 Offer 58-II 左旋转字符串](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E5%89%91%E6%8C%87offer-58-II.md)
