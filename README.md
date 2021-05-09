@@ -867,3 +867,5 @@
 [剑指 Offer 59-II 队列的最大值](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E5%89%91%E6%8C%87offer-59-II.md)
 
 [剑指 Offer 60 n个骰子的点数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E5%89%91%E6%8C%87offer-60.md)
+
+[剑指 Offer 61 扑克牌中的顺子](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E5%89%91%E6%8C%87offer-61.md)
