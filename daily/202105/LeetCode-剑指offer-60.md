@@ -12,10 +12,8 @@
 
 ```go
 
-import(
-    "math"
-)
-func twoSum(n int) []float64 {
+
+func dicesProbability(n int) []float64 {
     dp:=make([][]int,n+1)
     for i:=0;i<=n;i++{
         dp[i]=make([]int,6*n+1)
