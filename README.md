@@ -885,3 +885,5 @@
 [剑指 Offer 68-II 二叉树的最近公共祖先](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E5%89%91%E6%8C%87offer-68-II.md)
 
 [993 二叉树的堂兄弟节点](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-993-cousins-in-binary-tree.md)
+
+[1442 形成两个异或相等数组的三元组数目](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-1442.md)
