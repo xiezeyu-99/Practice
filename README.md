@@ -887,3 +887,5 @@
 [993 二叉树的堂兄弟节点](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-993-cousins-in-binary-tree.md)
 
 [1442 形成两个异或相等数组的三元组数目](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-1442.md)
+
+[1738 找出第 K 大的异或坐标值](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-1738.md)
