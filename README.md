@@ -895,3 +895,5 @@
 [415 字符串相加](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-415.md)
 
 [1035 不相交的线](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-1035.md)
+
+[419 甲板上的战舰](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-419.md)
