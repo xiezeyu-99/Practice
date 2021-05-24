@@ -897,3 +897,5 @@
 [1035 不相交的线](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-1035.md)
 
 [419 甲板上的战舰](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-419.md)
+
+[面试题01.01 判定字符是否唯一](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9801.01.md)
