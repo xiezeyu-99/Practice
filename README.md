@@ -905,3 +905,5 @@
 [面试题01.03 URL化](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9801.03.md)
 
 [面试题01.04 回文排列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9801.04.md)
+
+[面试题01.05 一次编辑](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9801.05.md)
