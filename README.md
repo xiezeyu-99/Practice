@@ -915,3 +915,7 @@
 [面试题01.08 零矩阵](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9801.08.md)
 
 [面试题01.09 字符串轮转](https://github.com/xiezeyu-99/Practice/blob/master/daily/202105/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9801.09.md)
+
+> 202106
+
+[面试题02.01 移除重复节点](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9802.01.md)
