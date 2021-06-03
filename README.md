@@ -919,3 +919,5 @@
 > 202106
 
 [面试题02.01 移除重复节点](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9802.01.md)
+
+[面试题02.02 返回倒数第 k 个节点](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9802.02.md)
