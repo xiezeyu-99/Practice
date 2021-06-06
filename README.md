@@ -925,3 +925,5 @@
 [面试题02.03 删除中间节点](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9802.03.md)
 
 [面试题02.04 分割链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9802.04.md)
+
+[面试题02.05 链表求和](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9802.05.md)
