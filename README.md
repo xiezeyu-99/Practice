@@ -931,3 +931,5 @@
 [面试题02.06 回文链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9802.06.md)
 
 [面试题02.07 链表相交](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9802.07.md)
+
+[面试题02.08 环路检测](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9802.08.md)
