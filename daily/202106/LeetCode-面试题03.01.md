@@ -12,46 +12,32 @@
 ```go
 
 type TripleInOne struct {
-    Stacks [3]Stack
+    data []int
+    stackPos [3]int
 }
 
-type Stack struct {
-    Data []int
-    Cap int
-}
 
 func Constructor(stackSize int) TripleInOne {
     return TripleInOne {
-        Stacks:[3]Stack{
-            Stack{
-                Data:[]int{},
-                Cap:stackSize,
-            },
-            Stack{
-                Data:[]int{},
-                Cap:stackSize,
-            },
-            Stack{
-                Data:[]int{},
-                Cap:stackSize,
-            },
-        },
+        data:make([]int, stackSize*3),
+        stackPos:[3]int{0,stackSize,stackSize*2},
     }
 }
 
 
 func (this *TripleInOne) Push(stackNum int, value int)  {
-    if this.Stacks[stackNum].Cap > len(this.Stacks[stackNum].Data) {
-        this.Stacks[stackNum].Data = append(this.Stacks[stackNum].Data, value)
-    }
-    
+    if this.stackPos[stackNum] == len(this.data)/3*(stackNum+1)  {    
+        return
+    } 
+    this.data[this.stackPos[stackNum]] = value
+    this.stackPos[stackNum]++    
 }
 
 
 func (this *TripleInOne) Pop(stackNum int) int {
     if !this.IsEmpty(stackNum) { 
-        data := this.Stacks[stackNum].Data[len(this.Stacks[stackNum].Data)-1] 
-        this.Stacks[stackNum].Data = this.Stacks[stackNum].Data[:len(this.Stacks[stackNum].Data)-1]            
+        data := this.data[this.stackPos[stackNum]-1] 
+        this.stackPos[stackNum]--           
         return data
     } else {
         return -1
@@ -61,7 +47,7 @@ func (this *TripleInOne) Pop(stackNum int) int {
 
 func (this *TripleInOne) Peek(stackNum int) int {
     if !this.IsEmpty(stackNum) {              
-        return this.Stacks[stackNum].Data[len(this.Stacks[stackNum].Data)-1] 
+        return this.data[this.stackPos[stackNum]-1] 
     } else {
         return -1
     }
@@ -69,7 +55,7 @@ func (this *TripleInOne) Peek(stackNum int) int {
 
 
 func (this *TripleInOne) IsEmpty(stackNum int) bool {
-    return len(this.Stacks[stackNum].Data) == 0
+    return  this.stackPos[stackNum] == len(this.data)/3*stackNum 
 }
 
 
@@ -88,7 +74,7 @@ func (this *TripleInOne) IsEmpty(stackNum int) bool {
 
 时间复杂度：O(n)
 
-空间复杂度：O(1)
+空间复杂度：O(n)
 
 >总结
 
