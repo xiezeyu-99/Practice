@@ -935,3 +935,5 @@
 [面试题02.08 环路检测](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9802.08.md)
 
 [面试题03.01 三合一](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9803.01.md)
+
+[面试题03.02 栈的最小值](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9803.02.md)
