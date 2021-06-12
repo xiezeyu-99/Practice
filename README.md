@@ -939,3 +939,5 @@
 [面试题03.02 栈的最小值](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9803.02.md)
 
 [面试题03.03 堆盘子](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9803.03.md)
+
+[面试题03.04 化栈为队](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9803.04.md)
