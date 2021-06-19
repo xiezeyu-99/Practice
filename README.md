@@ -951,3 +951,5 @@
 [面试题04.02 最小高度树  ](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9804.02.md)
 
 [面试题04.03  特定深度节点链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9804.03.md)
+
+[面试题04.04 检查平衡性](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9804.04.md)
