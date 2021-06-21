@@ -955,3 +955,5 @@
 [面试题04.04 检查平衡性](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9804.04.md)
 
 [面试题04.05 合法二叉搜索树](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9804.05.md)
+
+[面试题04.06  后继者](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9804.06.md)
