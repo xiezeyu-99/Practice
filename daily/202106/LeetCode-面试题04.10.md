@@ -26,14 +26,16 @@ func checkSubTree(t1 *TreeNode, t2 *TreeNode) bool {
     return false
 }
 func judge(t1,t2 *TreeNode) bool{
-    if t2 == nil  {
+    if t1 == nil && t2 == nil {
         return true
     }
-    if t1 == nil  {
+    if t1 == nil || t2 == nil  {
         return false
     }
     return t1.Val == t2.Val&&judge(t1.Left,t2.Left)&&judge(t1.Right,t2.Right)
 }
+
+
 
 
 
