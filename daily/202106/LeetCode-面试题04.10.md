@@ -20,39 +20,22 @@
  * }
  */
 func checkSubTree(t1 *TreeNode, t2 *TreeNode) bool {
-    t1 = findEq(t1,t2)
-    if t1 == nil {
-        return false
+    if t1 != nil && t2 != nil {
+        return judge(t1,t2)||checkSubTree(t1.Left,t2)||checkSubTree(t1.Right,t2)
     }
-    return judge(t1,t2)
+    return false
 }
 func judge(t1,t2 *TreeNode) bool{
-   
-    if t1 == nil && t2 == nil {
+    if t2 == nil  {
         return true
     }
-     fmt.Println(t1,t1.Val,t2.Val)
-    if t1.Val != t2.Val {
+    if t1 == nil  {
         return false
     }
-    return judge(t1.Left,t2.Left)&&judge(t1.Right,t2.Right)
+    return t1.Val == t2.Val&&judge(t1.Left,t2.Left)&&judge(t1.Right,t2.Right)
 }
 
-func findEq(t1,t2 *TreeNode) *TreeNode{
-    if t1==nil || t1.Val == t2.Val {
-        return t1
-    }
 
-    if v:=findEq(t1.Left,t2);v!=nil{
-        return v
-    }
-
-    if v:=findEq(t1.Right,t2);v!=nil{
-        return v
-    }
-
-    return nil
-}
 
 
 
@@ -66,6 +49,6 @@ func findEq(t1,t2 *TreeNode) *TreeNode{
 
 >总结
 
-执行用时 :36ms, 在所有 Go 提交中击败了83.96%的用户
+执行用时 :0ms, 在所有 Go 提交中击败了100.006%的用户
 
 内存消耗 :2.1MB, 在所有 Go 提交中击败了30.37%的用户
