@@ -961,3 +961,5 @@
 [面试题04.08 首个共同祖先](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9804.08.md)
 
 [面试题04.10 检查子树](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9804.10.md)
+
+[面试题04.12 求和路径](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9804.12.md)
