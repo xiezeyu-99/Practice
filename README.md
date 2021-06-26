@@ -965,3 +965,5 @@
 [面试题04.12 求和路径](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9804.12.md)
 
 [面试题05.01 插入](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9805.01.md)
+
+[面试题05.02 二进制数转字符串](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9805.02.md)
