@@ -971,3 +971,5 @@
 [面试题05.03 翻转数位](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9805.03.md)
 
 [面试题05.04 下一个数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9805.04.md)
+
+[面试题05.06 整数转换](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9805.06.md)
