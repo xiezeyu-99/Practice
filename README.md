@@ -975,3 +975,5 @@
 [面试题05.06 整数转换](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9805.06.md)
 
 [面试题05.07 配对交换](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9805.07.md)
+
+[面试题05.08 绘制直线](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9805.08.md)
