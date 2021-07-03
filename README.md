@@ -979,3 +979,7 @@
 [面试题05.08 绘制直线](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9805.08.md)
 
 [面试题08.01](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9808.01.md)
+
+> 202107
+
+[面试题08.02 迷路的机器人](https://github.com/xiezeyu-99/Practice/blob/master/daily/202106/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9808.02.md)
