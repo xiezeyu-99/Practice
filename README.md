@@ -991,3 +991,5 @@
 [面试题08.06 汉诺塔问题](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9808.06.md)
 
 [面试题08.07 无重复字符串的排列组合](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9808.07.md)
+
+[面试题08.08 有重复字符串的排列组合](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9808.08.md)
