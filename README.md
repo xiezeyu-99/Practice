@@ -999,3 +999,5 @@
 [面试题08.10 颜色填充](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9808.10.md)
 
 [面试题08.11 硬币](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9808.11.md)
+
+[面试题08.12 八皇后](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9808.12.md)
