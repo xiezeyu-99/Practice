@@ -1003,3 +1003,5 @@
 [面试题08.12 八皇后](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9808.12.md)
 
 [面试题08.13 堆箱子](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9808.13.md)
+
+[面试题10.05 稀疏数组搜索](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9810.05.md)
