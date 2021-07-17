@@ -1009,3 +1009,5 @@
 [面试题16.01 交换数字](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9816.01.md)
 
 [面试题10.03 搜索旋转数组](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9810.03.md)
+
+[面试题16.02 单词频率](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9816.02.md)
