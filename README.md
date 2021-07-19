@@ -1013,3 +1013,5 @@
 [面试题16.02 单词频率](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9816.02.md)
 
 [面试题16.03 交点](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9816.03.md)
+
+[面试题08.14 布尔运算](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9808.14.md)
