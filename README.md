@@ -1029,3 +1029,5 @@
 [面试题10.11 峰与谷](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9810.11.md)
 
 [面试题16.04 井字游戏](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9816.04.md)
+
+[面试题16.05 阶乘尾数](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9816.05.md)
