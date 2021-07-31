@@ -1035,3 +1035,5 @@
 [面试题16.06 最小差](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9816.06.md)
 
 [面试题16.07 最大数值](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9816.07.md)
+
+[面试题16.09 运算](https://github.com/xiezeyu-99/Practice/blob/master/daily/202107/LeetCode-%E9%9D%A2%E8%AF%95%E9%A2%9816.09.md)
