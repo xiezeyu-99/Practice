@@ -1049,3 +1049,5 @@
 [25 K 个一组翻转链表](https://github.com/xiezeyu-99/Practice/blob/master/daily/202108/LeetCode-25.md)
 
 [98 验证二叉搜索树](https://github.com/xiezeyu-99/Practice/blob/master/daily/202108/LeetCode-98.md)
+
+[416 分割等和子集](https://github.com/xiezeyu-99/Practice/blob/master/daily/202108/LeetCode-416.md)
