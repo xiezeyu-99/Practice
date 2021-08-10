@@ -1059,3 +1059,5 @@
 [面试题16.16 部分排序](https://github.com/xiezeyu-99/Practice/blob/master/daily/202108/%E9%9D%A2%E8%AF%95%E9%A2%9816.16.md)
 
 [面试题16.17 连续数列](https://github.com/xiezeyu-99/Practice/blob/master/daily/202108/%E9%9D%A2%E8%AF%95%E9%A2%9816.17.md)
+
+[面试题16.18 模式匹配](https://github.com/xiezeyu-99/Practice/blob/master/daily/202108/%E9%9D%A2%E8%AF%95%E9%A2%9816.18.md)
