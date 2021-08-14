@@ -1067,3 +1067,5 @@
 [面试题16.20 T9键盘](https://github.com/xiezeyu-99/Practice/blob/master/daily/202108/%E9%9D%A2%E8%AF%95%E9%A2%9816.20.md)
 
 [面试题16.21 交换和](https://github.com/xiezeyu-99/Practice/blob/master/daily/202108/%E9%9D%A2%E8%AF%95%E9%A2%9816.21.md)
+
+[面试题16.22 兰顿蚂蚁](https://github.com/xiezeyu-99/Practice/blob/master/daily/202108/%E9%9D%A2%E8%AF%95%E9%A2%9816.22.md)
