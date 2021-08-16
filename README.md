@@ -1071,3 +1071,5 @@
 [面试题16.22 兰顿蚂蚁](https://github.com/xiezeyu-99/Practice/blob/master/daily/202108/%E9%9D%A2%E8%AF%95%E9%A2%9816.22.md)
 
 [面试题16.24 数对和](https://github.com/xiezeyu-99/Practice/blob/master/daily/202108/%E9%9D%A2%E8%AF%95%E9%A2%9816.24.md)
+
+[面试题16.25 LRU 缓存](https://github.com/xiezeyu-99/Practice/blob/master/daily/202108/%E9%9D%A2%E8%AF%95%E9%A2%9816.25.md)
